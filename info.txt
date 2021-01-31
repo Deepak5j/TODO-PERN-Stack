@@ -1,0 +1,6 @@
+This is todo PERN stack app.
+I have learned it from this yourtube url.
+https://www.youtube.com/watch?v=l3njf_tU8us
+
+I am working on a "Conference Centre" PERN App.
+I will you regarding that soon.
